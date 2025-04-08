@@ -150,7 +150,7 @@ end
 -- Brookhaven
 local brookhaven = criarSecao("Brookhaven")
 criarBotao("SP Hub (Brookhaven)", "https://raw.githubusercontent.com/as6cd0/SP_Hub/refs/heads/main/Brookhaven", 6035047409, brookhaven)
-criarBotao("Mango Hub", "https://raw.githubusercontent.com/rogelioajax/lua/main/MangoHub", 6034977202, brookhaven)
+criarBotao("Mango Hub", "https://raw.githubusercontent.com/rogelioajax/lua/main/MangoHub", 17045248492, brookhaven)
 
 -- Misc
 local misc = criarSecao("Misc")
