@@ -4,7 +4,7 @@
 	GitHub: https://github.com/Olavo635
 --]]
 
-local baseURL = "https://raw.githubusercontent.com/Olavo635/PlotHub/main/"
+local baseURL = "https://raw.githubusercontent.com/Olavo635/Roblox-scripts/refs/heads/main/"
 
 local function import(path)
 	local success, result = pcall(function()
