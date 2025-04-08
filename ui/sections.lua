@@ -38,7 +38,7 @@ return function(parentWindow, config)
 	end
 
 	local function import(path)
-		local base = "https://raw.githubusercontent.com/Olavo635/PlotHub/main/"
+		local base = "https://raw.githubusercontent.com/Olavo635/Roblox-scripts/refs/heads/main/"
 		return loadstring(game:HttpGet(base .. path, true))()
 	end
 
